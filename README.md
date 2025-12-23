@@ -62,7 +62,8 @@ El proyecto permite, para cada patrón:
 1. Clonar el repositorio principal desde GitLab
 2. Abrir el proyecto en Unity (versión LTS recomendada)
 3. Instalar la dependencia necesaria: `com.unity.nuget.newtonsoft-json`
-4. Abrir la escena: `Assets/Scenes/DesignPatterns.unity`
+4. Abrir la escena: `Assets/Scenes/DesignPatterns.unity` 
+5. Ejecutar en el editor (`Play`) o correr una build.
 
 <img width="2188" height="1208" alt="imagen" src="https://github.com/user-attachments/assets/5d0a917f-ace0-441b-b804-70f2631f39b8" />
 
