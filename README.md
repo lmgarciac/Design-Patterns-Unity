@@ -65,7 +65,7 @@ El proyecto permite, para cada patrón:
 4. Abrir la escena: `Assets/Scenes/DesignPatterns.unity` 
 5. Ejecutar en el editor (`Play`) o correr una build.
 
-<img width="2188" height="1208" alt="imagen" src="https://github.com/user-attachments/assets/5d0a917f-ace0-441b-b804-70f2631f39b8" />
+<img width="2193" height="1219" alt="image" src="https://github.com/user-attachments/assets/fc31255e-0738-4f3e-8639-40f9f429db9b" />
 
 
 ## Estructura del código
